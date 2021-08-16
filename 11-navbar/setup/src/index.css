@@ -175,7 +175,7 @@ nav {
 }
 .links a:hover {
   background: var(--clr-primary-8);
-  color: var(--clr-primary-5);
+  color: black;
   padding-left: 1.5rem;
 }
 .social-icons {
