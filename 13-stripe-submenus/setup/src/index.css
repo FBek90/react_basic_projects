@@ -251,6 +251,10 @@ Stripe Styles
     text-transform: capitalize;
     letter-spacing: 1px;
     width: 10rem;
+    font-weight: bold;
+  }
+  .link-btn:hover {
+    color: black;
   }
 }
 
